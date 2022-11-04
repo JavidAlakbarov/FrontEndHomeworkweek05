@@ -35,7 +35,7 @@ function task3(word)
   }
   else {return word};
 }
-console.log(task3('Parvizyan')); //yanParvizyanyan
+console.log(task3('Parvizyan')); //'yan'Parvizyan'yan'
 console.log(task3("cb")); //cb
 
 
